@@ -1,5 +1,14 @@
 # Waste Classification using Deep Learning
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/ResNet50-Transfer%20Learning-0F766E?style=for-the-badge" alt="ResNet50" />
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-14B8A6?style=for-the-badge" alt="MIT License" /></a>
+</p>
+
+<p align="center"><a href="#project-overview">Overview</a> · <a href="#methodology">Methodology</a> · <a href="#installation">Installation</a></p>
+
 Deep Learning academic project focused on image-based waste classification using **TensorFlow/Keras**, **ResNet50**, transfer learning, fine-tuning, and custom CNN blocks inspired by DenseNet.
 
 This project was developed as part of a Deep Learning practical assignment on **CNN architectures and fine-tuning**.
